@@ -1,1 +1,1 @@
-https://shah-fahad124.github.io/SMIT-Academy-assignment/
+https://shah-fahad124.github.io/SMIT-assignment-complete-bootstrap-website/
